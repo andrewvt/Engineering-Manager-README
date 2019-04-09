@@ -1,5 +1,3 @@
-
-# Engineering Manager README
 **Andrew Rousseau**  
 Director Of Engineering  
 @ Bluehouse Group  
