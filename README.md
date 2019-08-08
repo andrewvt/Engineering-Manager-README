@@ -1,6 +1,6 @@
 **Andrew Rousseau**  
-Director Of Engineering  
-@ Bluehouse Group  
+Software Engineering Manager
+@ Maxwell Health  
 
 ## Introduction
 Treat this document as an introduction and ongoing reference, but keep in mind that everyone’s needs are unique so naturally how I can best serve each of you will be unique as well.
