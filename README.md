@@ -1,6 +1,6 @@
 **Andrew Rousseau**  
-Software Engineering Manager      
-@ Maxwell Health  
+AVP Engineering       
+@ Sun Life | Maxwell Health  
 
 ## Introduction
 Treat this document as an introduction and ongoing reference, but keep in mind that everyone’s needs are unique so naturally how I can best serve each of you will be unique as well.
